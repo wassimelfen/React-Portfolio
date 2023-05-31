@@ -26,14 +26,14 @@ import About from "./components/about.jsx";
 import Contact from "./components/contact.jsx";
 import BackToTop from "./components/back-top.jsx";
 import Preloader from "./components/preloader";
-// import Portfolio from "./components/portfolio";
+import Portfolio from "./components/portfolio.jsx";
 
 ReactDOM.render(
   <React.Fragment>
     <Navbar />
     <Intro />
     <About />
-    {/* <Portfolio /> */}
+    <Portfolio />
     <Contact />
     <BackToTop />
     <Preloader />
