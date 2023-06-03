@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 
 //import css in order
 import "normalize.css";
@@ -29,15 +30,17 @@ import Preloader from "./components/preloader";
 import Portfolio from "./components/portfolio.jsx";
 
 ReactDOM.render(
-  <React.Fragment>
-    <Navbar />
-    <Intro />
-    <About />
-    <Portfolio />
-    <Contact />
-    <BackToTop />
-    <Preloader />
-  </React.Fragment>,
+  <Router basename="/">
+    <React.Fragment>
+      <Navbar />
+      <Intro />
+      <About />
+      <Portfolio />
+      <Contact />
+      <BackToTop />
+      <Preloader />
+    </React.Fragment>
+  </Router>,
   document.getElementById("root")
 );
 
