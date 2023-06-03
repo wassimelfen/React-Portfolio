@@ -34,7 +34,7 @@ class Intro extends React.Component {
                 <a
                   id="btnIntro"
                   className="btn  px-4"
-                  href="#work"
+                  href="React-Portfolio/#work"
                   role="button"
                 >
                   View My Work
