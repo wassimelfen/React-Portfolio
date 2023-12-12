@@ -40,7 +40,7 @@ import section3 from "../img/section3.PNG";
 import section4 from "../img/section4.PNG";
 import section5 from "../img/section5.PNG";
 
-import home3 from "../img/home3.PNG";
+import home3 from "../img/home3.JPG";
 import home4 from "../img/home4.PNG";
 import werd from "../img/werd.PNG";
 import hefdh from "../img/hefdh.PNG";
@@ -169,7 +169,7 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Qurani</h2>
+                        <h2 className="w-title">Taahadu</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
                             React Hooks, Redux Toolkit, Bootstrap, ExpressJS,

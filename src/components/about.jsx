@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "../resume/Wassim CV.pdf";
+import Pdf from "../resume/My Resume.pdf";
 
 class About extends React.Component {
   constructor() {
@@ -128,8 +128,9 @@ class About extends React.Component {
                       <h3>Front-End</h3>
                       <p className="lead">
                         HTML, CSS, JavaScript, Jquery, React JS, React Hooks,
-                        Context API, WordPress, Angular, Vue JS, Three JS,
-                        Bootstrap, TailwindCSS, SCSS, Material UI,...
+                        Redux Toolkit, Context API, Angular, Vue JS, Three JS,
+                        UI/UX design, Bootstrap, TailwindCSS, SCSS, Material
+                        UI,...
                       </p>
                       <br></br>
                       <h3>Back-End</h3>
@@ -154,8 +155,25 @@ class About extends React.Component {
 
                       <div className="lead">
                         <b>
+                          Full-Stack developer - AVEC Association, April 2023 -
+                          Present
+                        </b>
+                        <ul>
+                          <li>
+                            Designing, planning, and developing fullstack
+                            applications tailored to the needs of the
+                            association's various international projects
+                          </li>
+
+                          <li>
+                            React, React hooks, Context API, Bootstrap, MongoDB,
+                            Mongoose, NodeJS, ExpressJS, ...
+                          </li>
+                        </ul>
+
+                        <b>
                           Full-Stack developer - Rumzer Company (USA) Aug 2022 -
-                          Mar 2023
+                          May 2023
                         </b>
                         <ul>
                           <li>
