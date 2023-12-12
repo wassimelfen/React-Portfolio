@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1e937f7d852d652f887085feed582f8",
+    "revision": "6a312203accf642faf0e3365a18952fd",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "cf139291a19a499f7fb6",
+    "revision": "9bac7bdc338afee89ac9",
     "url": "/React-Portfolio/static/css/2.a417cd58.chunk.css"
   },
   {
-    "revision": "df6030a1bcd3354edd77",
+    "revision": "bc7ae32a058a2c734a65",
     "url": "/React-Portfolio/static/css/main.26805f43.chunk.css"
   },
   {
-    "revision": "cf139291a19a499f7fb6",
-    "url": "/React-Portfolio/static/js/2.738967e9.chunk.js"
+    "revision": "9bac7bdc338afee89ac9",
+    "url": "/React-Portfolio/static/js/2.d3d0c6bf.chunk.js"
   },
   {
     "revision": "d20ef47a8f86fc065e9f9869e9858569",
-    "url": "/React-Portfolio/static/js/2.738967e9.chunk.js.LICENSE.txt"
+    "url": "/React-Portfolio/static/js/2.d3d0c6bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df6030a1bcd3354edd77",
-    "url": "/React-Portfolio/static/js/main.d2749f1b.chunk.js"
+    "revision": "bc7ae32a058a2c734a65",
+    "url": "/React-Portfolio/static/js/main.853caa46.chunk.js"
   },
   {
     "revision": "2c08cdc1e08211bfed8e",
     "url": "/React-Portfolio/static/js/runtime-main.69c81151.js"
   },
   {
-    "revision": "727e36cc2625c9ffc9b0d4562fa7e365",
-    "url": "/React-Portfolio/static/media/Wassim CV.727e36cc.pdf"
+    "revision": "1e963c5c7f6c3bdae45febae48f6e88e",
+    "url": "/React-Portfolio/static/media/My Resume.1e963c5c.pdf"
   },
   {
     "revision": "aea2428e619fa04764d57f694948f8d3",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/home2.cf4cffd8.PNG"
   },
   {
-    "revision": "0e36d499a84696359de27716fdfbbef9",
-    "url": "/React-Portfolio/static/media/home3.0e36d499.PNG"
+    "revision": "25275e9282931cdd85e8fd2a1b037c3a",
+    "url": "/React-Portfolio/static/media/home3.25275e92.JPG"
   },
   {
     "revision": "cd83aabce21f65a750c838df84d35e1c",
